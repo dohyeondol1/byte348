@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: byte348
-subtitle: developer with a grit
+subtitle: implementation
 email: dohyeondol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   dohy's problem solving blog.
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "byte348"
   avatar : "/assets/images/vivid.jpg"
-  bio    : "Novice programmer who likes climbing. / 🇰🇷"
+  bio    : "dohy's problem solving blog. / 🇰🇷"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
