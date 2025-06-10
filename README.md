@@ -1,2 +1,1 @@
-# byte348.github.io
-알고리즘 문제 풀이를 기록하는 블로그
+이 블로그는 [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) 테마의 GitHub Pages 스타터 템플릿을 기반으로 구성되었습니다.
