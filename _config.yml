@@ -18,14 +18,13 @@ subtitle: implementation
 email: dohyeondol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   dohy's problem solving blog.
-twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: sh-cho/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
@@ -115,7 +114,7 @@ comments:
 analytics:
   provider               : "google-gtag" 
   google:
-    tracking_id          : "G-KQZXZY1Y1S"
+    tracking_id          : "G-7J015EERMR"
 
 # SEO
-google_site_verification: "_QOcIpBviPe5cbBC95ZRXt7XJV3UT_rLmEyXUrQ3nFQ"
+google_site_verification: "xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI"
