@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: sh-cho/minimal-mistakes
+remote_theme: dohyeondol1/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
