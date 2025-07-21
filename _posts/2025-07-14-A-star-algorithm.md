@@ -49,7 +49,7 @@ A* 에서는 OpenList와 CloseList 두 저장소를 사용하여 최단 경로 �
 또한 **F = G + H** 입니다.
 
 먼저 출발 노드인 0을 CloseList에 추가하고 연결된 노드인 1, 2번 노드를 OpenList에 추가합니다.  
-H score는 단순히 해당 노드로부터 도착 노드까지의 <a href="byte348.com/A-star-algorithm/#휴리스틱-함수-hn">유클리드 거리</a>를 사용해서 구한다고 가정합시다.  
+H score는 단순히 해당 노드로부터 도착 노드까지의 <a href="/#휴리스틱-함수-hn">유클리드 거리</a>를 사용해서 구한다고 가정합시다.  
 
 <img src="{{site.baseurl}}/assets\images\posts\2025-07-14-A-star-algorithm\A-star2.png" alt="A-star2" style="width:110%;">
 
