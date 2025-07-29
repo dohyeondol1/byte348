@@ -106,7 +106,7 @@ repository: "dohyeondol1/byte348.github.io"
 comments:
   provider: "utterances"
   utterances:
-    repo: "dohyeondol1/utterances.github.io"
+    repo: "dohyeondol1/utterances"
     issue-term: "pathname"
     theme: "github-light"
 
